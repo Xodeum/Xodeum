@@ -1,7 +1,7 @@
 👋 Hi, I’m @Xodeum
-👀 I’m a MERN full-stack web developer passionate about creating dynamic and responsive web applications.
+👀 I’m a front-end developer passionate about creating dynamic and responsive web applications.
 🌱 I’m currently diving deeper into integrating AI solutions into web projects.
-💞️ I’m looking to collaborate on exciting full-stack and AI-driven projects.
+💞️ I want to collaborate on exciting React based front-end projects.
 📫 Reach me on WhatsApp: +923364040740
 
 <!---
